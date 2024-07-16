@@ -1,2 +1,2 @@
 # Qperio
-python notebooks exploring perturbed pendulum classical and quantum systems
+python notebooks exploring perturbed Harper/pendulum classical and quantum analogs
