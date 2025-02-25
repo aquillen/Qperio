@@ -1,4 +1,4 @@
-# Qperio
+# Qperio - Classical and quantum analogs of the periodically perturbed Harper model. 
 Exploring sinusoidal perturbed Harper/pendulum classical and quantum analogs.
 The Hamiltonian in both classical and quantum settings is
 
