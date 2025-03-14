@@ -10,10 +10,12 @@ In the quantum setting $p, \phi$ become operators on a discrete $N$ dimensional 
 
 Relevant for this paper:  https://arxiv.org/abs/2412.14926 on the topic of chaos excited at a separatrix. 
 
-Qcomp01.ipynb, Qperio11.ipynb, Qergodic01.ipynb are used to make figures for this manuscript. 
+Qcomp01.ipynb, Qperio11.ipynb, Qergodic01.ipynb, Qperio_hists01.ipynb are used to make figures for this manuscript. 
 
 Qperio11.ipynb creates the propagators and integrates the associated classical models.  Most of the figures in the manuscript are created here. 
 
 Qergodic.ipynb makes Husimi functions near the sepatrix of an ergodic model and compares what they look like as $N$ (the dimension of the quantum system) increases.
 
 Qcomp01.ipynb computes commutators and matrix elements to check that our derived analytical estimates for the width of the ergodic region are reasonable. 
+
+Qperio_hists01.ipynb computes quasi-energy level spacing distributions. 
